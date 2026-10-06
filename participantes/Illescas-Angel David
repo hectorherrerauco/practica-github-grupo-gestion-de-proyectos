@@ -1,8 +1,8 @@
-# Bitácora de [Tu nombre completo]
+# Bitácora de Angel David
 
-- **Usuario de GitHub:** @tuusuario
-- **Carrera / grupo:**
-- **Fecha:**
+- Usuario de GitHub: Angel25-html
+- Carrera / grupo: I.S.C "S7A"
+- Fecha: 06/10/2026
 
 ## Acciones realizadas
 
@@ -11,6 +11,13 @@
 | 1 | Acepté la invitación al repositorio | |
 | 2 | Exploré el repositorio | |
 | 3 | Creé este archivo | |
+| 4 | Guarde el commit | |
+| 5 | Modifique el archivo | |
+| 6 | Agregue contenido y respondi las preguntas | |
 
 ## Reflexión
 ¿Qué es un commit con mis propias palabras?
+Un commit se puede describir como una captura del codigo almacenada, 
+pues puede ser modificada y esta disponible para volver a utilizarse, 
+la idea es resguardar funciones del programa que ya funcionan dentro de un lugar rescatable.
+
