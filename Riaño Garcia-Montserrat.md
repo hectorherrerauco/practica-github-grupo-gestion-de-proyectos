@@ -1,6 +1,6 @@
 # Bitácora de [Montserrat Riaño Garcia]
 
-- **Usuario de GitHub:
+- Usuario de GitHub:rianomontserrat42-sudo
 - Carrera / grupo:Ingeneria en sistemas Computacionales 6A 
 - Fecha:06-10-2026
 
