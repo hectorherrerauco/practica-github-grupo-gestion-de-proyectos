@@ -15,3 +15,6 @@
 ## Reflexión
 ¿Qué es un commit con mis propias palabras?
 es tener un control para guardar los cambios que se van realizando
+
+##comentario de Carlos Acevedo 
+Agrego comentario en bitácora de [Edy] tu bitacora me parece muy explicable y entendible 
