@@ -8,9 +8,9 @@ Acciones realizadas
 
 | # | Acción | ¿Qué aprendí o noté? |
 |---|--------|----------------------|
-| 1 | Acepté la invitación al repositorio:  si
-| 2 | Exploré el repositorio: si
-| 3 | Creé este archivo: si lo cree
+| 1 | Acepté la invitación al repositorio:  |si|
+| 2 | Exploré el repositorio:|si|
+| 3 | Creé este archivo: |si lo cree|
 
  Reflexión
 ¿Qué es un commit con mis propias palabras?
