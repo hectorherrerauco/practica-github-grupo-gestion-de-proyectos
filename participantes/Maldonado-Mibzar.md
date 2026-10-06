@@ -8,9 +8,9 @@
 
 | # | Acción | ¿Qué aprendí o noté? |
 |---|--------|----------------------|
-| 1 | Acepté la invitación al repositorio | |
-| 2 | Exploré el repositorio | |
-| 3 | Creé este archivo | |
+| 1 | Acepté la invitación al repositorio | Noté que la invitación puede llegar por Gmail. |
+| 2 | Exploré el repositorio | Conocí cómo está organizado.|
+| 3 | Creé este archivo | Aprendí a crear un archivo |
 
 ## Reflexión
 ¿Qué es un commit con mis propias palabras?
