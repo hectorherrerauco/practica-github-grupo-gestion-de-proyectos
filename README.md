@@ -1,5 +1,3 @@
-# practica-github-grupo-gestion-de-proyectos
-Este es un repositorio de pruebas para la materia Gestión de Proyectos de Software
 
 # Práctica 1: Mi primera contribución en GitHub
 
