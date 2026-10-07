@@ -15,3 +15,5 @@
 ¿Qué es un commit con mis propias palabras? Un commit es un punto de guardado de tu proyecto.
 
 Registra lo que cambiaste y lleva una nota breve que explica qué hiciste.
+
+## Comentario de Mibzar Maldonado: Buen trabajo, la bitácora está clara y organizada. Me gustó cómo explicaste con tus propias palabras qué es un commit y para qué sirve.
