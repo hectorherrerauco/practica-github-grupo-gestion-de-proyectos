@@ -17,4 +17,4 @@
 ## Reflexión
 ¿Qué es un commit con mis propias palabras? 
 Es un punto de guardado permanente de los cambios guardados en un 
-proyecto dentro de un sistema de control 
+proyecto dentro de un sistema de controll
