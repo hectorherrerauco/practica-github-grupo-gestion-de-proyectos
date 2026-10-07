@@ -11,6 +11,9 @@
 | 1 | Acepté la invitación al repositorio | Noté que la invitación puede llegar por Gmail. |
 | 2 | Exploré el repositorio | Conocí cómo está organizado.|
 | 3 | Creé este archivo | Aprendí a crear un archivo |
+| 4 | Hice mi primer commit | Note que es sencillo. |
+| 5 | Edité mi archivo | Aprendí que puedo realizar modificaciones |
+| 6 | Revisé el historial | Pude observar las acciones realizadas |
 
 ## Reflexión
 ¿Qué es un commit con mis propias palabras?
